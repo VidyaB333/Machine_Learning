@@ -1,1 +1,13 @@
 
+Different Clustering algorithms and concepts
+
+1: K-mean clustering
+2: Aggolomerative clustering
+3:DBSCAN CLUSTERING
+4: Custom function for k-mean clustering
+5: K-mean clustering using sklearn library
+6: PCA
+7: SVD
+8: Linkage method
+9: Dendrogram
+10: Eigenvaluedecompostion
