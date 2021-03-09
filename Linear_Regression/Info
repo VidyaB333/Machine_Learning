@@ -1,1 +1,11 @@
 
+Machine_Learning/Linear_Regression folder contains:
+
+Preprocessing on categorical variable,
+Custom Function for gradient descent, Inbuilt function for gradient descent
+Gradient descent on univariate problem, multivariate problem
+Linear regression custom function, built in function in sklearn library, Statsmodels library
+Filter feature selection
+Multivariate linear regression using statsmodel
+Normal equation for Linear regression
+Polynomial regression
