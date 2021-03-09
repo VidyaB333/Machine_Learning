@@ -1,1 +1,12 @@
 
+This Folfer contains programs solved for different tree based algorithms:
+
+1: Decision tree
+2: Bagging classifier
+3: Random Forest Classifier
+4: Bosting classifer
+5: Class weightage for imbalancec dataset
+6: Grid search on decision tree
+7: K-fold cross validation
+8: Model stacking 
+9: XGBoost 
